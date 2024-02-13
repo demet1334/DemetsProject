@@ -5,5 +5,6 @@ public class Merhaba {
 
         System.out.println("Bug Fighters");
         System.out.println("dilan");
+        System.out.println("deneme kontrol");
     }
 }
